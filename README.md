@@ -1,2 +1,1 @@
-# my-portfolio
-my skill card
+portfolio/index.html
